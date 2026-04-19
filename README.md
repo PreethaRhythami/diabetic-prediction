@@ -1,4 +1,5 @@
-Diabetic Prediction Web App
+
+Live Demo: https://preetha-diabetes-prediction.streamlit.appDiabetic Prediction Web App
 
 A machine learning web application that predicts the likelihood of diabetes in a patient based on clinical input parameters. Built with Python, Scikit-learn, and Streamlit.
 
